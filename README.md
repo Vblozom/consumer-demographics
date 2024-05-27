@@ -48,7 +48,7 @@ Power BI automatically connected related tables resulting in an Entity Relations
 
 ## ANALYSIS &VISUALIZATIONS
 
-![](estaurant_ratings.png)
+![](restaurant_ratings.png)
 
 We can see that from the dashboard shows
 - 	The highest rated restaurants top 5
@@ -59,6 +59,7 @@ We can see that from the dashboard shows
 
 - 	From the above dashboard shows the consumer preferences and consumer demographics on how it affects the restaurant ratings and their cuisines. 
 - 	It also indicates the demand & supply gaps that is exploited in the market.
+  
 
 ## CONLUSION/ RECOMMENDATION
 
